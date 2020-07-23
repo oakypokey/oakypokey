@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Calvin Dass 👋</h1>
-<h4 align="center"><a href="https://twitter.com/calvindass">Twitter</a> &bull; <a href="https://calvindass.com">Blog</a> &bull; <a href="https://www.linkedin.com/in/calvindass/">LinkedIn</a> &bull;
+<h4 align="center"><a href="https://twitter.com/calvindass">Twitter</a> &bull; <a href="https://calvindass.com">Blog</a> &bull; <a href="https://www.linkedin.com/in/calvindass/">LinkedIn</a> </h4>
 
 ---
 
