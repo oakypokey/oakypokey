@@ -11,7 +11,7 @@ I'm a recent graduate from the McDonough School of Business at Georgetown Univer
 - 💬 Ask me about Ardunio, JavaScript, Prototyping, Automation!
 - 📫 How to reach me: [Email!](https://calvindass.com/contact)
 - 😄 Pronouns: he/him
-- 🎧 Listening to: [softly on Spotify!] (https://open.spotify.com/playlist/37i9dQZF1DX8OCw6EqwHPA?si=bcycDq-zRu66rkNijOX0uw)
+- 🎧 Listening to: [softly on Spotify!](https://open.spotify.com/playlist/37i9dQZF1DX8OCw6EqwHPA?si=bcycDq-zRu66rkNijOX0uw)
 - ⚡ Fun fact: I built a [wooden vending machine!](https://calvindass.com/the-time-i-built-a-vending-machine/)
 
 Forked with ❤ from [Phil Nash](https://github.com/philnash/)
