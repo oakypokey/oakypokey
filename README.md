@@ -3,11 +3,10 @@
 
 ---
 
-I'm a recent graduate from the McDonough School of Business at Georgetown University! Right now, I'm working on a few wearable tech projects (for fun!) and figuring out what it means to be human 😋.
+I'm a recent graduate from the McDonough School of Business at Georgetown University! Right now, I'm working for a consulting company in their Human Capital division 😋.
 
 - 🌏 I live in Sydney, Australia
-- 🔭 I’m currently looking for work!
-- 🌱 I’m currently learning about the cool things I can do with the I2C protocol!
+- 🌱 I’m currently learning about ML (mainly NLP)!
 - 💬 Ask me about Ardunio, JavaScript, Prototyping, Automation!
 - 📫 How to reach me: [Email!](https://calvindass.com/contact)
 - 😄 Pronouns: he/him
