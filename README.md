@@ -3,11 +3,11 @@
 
 ---
 
-I'm a recent graduate from the McDonough School of Business at Georgetown University! Right now, I'm working for a consulting company in their Human Capital division 😋.
+At the moment, I'm working in Innovation Delivery and learning about product management 😋.
 
 - 🌏 I live in Sydney, Australia
-- 🌱 I’m currently learning about ML (mainly NLP)!
-- 💬 Ask me about Ardunio, JavaScript, Prototyping, Automation!
+- 🌱 I’m currently learning Rust!
+- 💬 Ask me about Ardunio, JavaScript, Prototyping, Automation, IoT!
 - 📫 How to reach me: [Email!](https://calvindass.com/contact)
 - 😄 Pronouns: he/him
 - 🎧 Listening to: [softly on Spotify!](https://open.spotify.com/playlist/37i9dQZF1DX8OCw6EqwHPA?si=bcycDq-zRu66rkNijOX0uw)
